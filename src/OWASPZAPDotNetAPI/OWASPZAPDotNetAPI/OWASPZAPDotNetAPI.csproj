@@ -7,8 +7,8 @@
     <ProjectGuid>{7B059393-0292-43BF-AE1C-D2DB4336453C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OWASPZAPDotNetAPI.Samples</RootNamespace>
-    <AssemblyName>OWASPZAPDotNetAPI.Samples</AssemblyName>
+    <RootNamespace>OWASPZAPDotNetAPI</RootNamespace>
+    <AssemblyName>OWASPZAPDotNetAPI</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>

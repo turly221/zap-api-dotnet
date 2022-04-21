@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OWASPZAPDotNetAPI.Samples")]
+[assembly: AssemblyTitle("OWASPZAPDotNetAPI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("OWASP")]
-[assembly: AssemblyProduct("OWASPZAPDotNetAPI.Samples")]
+[assembly: AssemblyProduct("OWASPZAPDotNetAPI")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

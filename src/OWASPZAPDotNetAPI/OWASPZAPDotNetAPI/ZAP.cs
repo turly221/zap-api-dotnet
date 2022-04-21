@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace OWASPZAPDotNetAPI.Samples
+namespace OWASPZAPDotNetAPI
 {
     /// <summary>
     /// Samples to start the OWASP Zed Attack Proxy

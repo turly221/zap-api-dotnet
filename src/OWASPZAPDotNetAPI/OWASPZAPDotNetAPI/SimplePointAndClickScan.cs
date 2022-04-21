@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace OWASPZAPDotNetAPI.Samples
+namespace OWASPZAPDotNetAPI
 {
     class SimplePointAndClickScan
     {
